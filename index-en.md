@@ -40,6 +40,7 @@ I have co-authored 3 academic books chapters and published over 80 papers in the
 - Researcher, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Dec. 2013-Aug. 2018. 
 - Associate Researcher, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Jan. 2010-Nov. 2013.  
 - Assistant Researcher, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Aug. 2008-Feb. 2010.
+  
 ---
 
 ### Grants
