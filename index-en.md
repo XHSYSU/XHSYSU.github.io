@@ -37,9 +37,9 @@ I have co-authored 3 academic books chapters and published over 80 papers in the
 ### Experiences
 
 Professor, College of Electronics and Communication Engineering, Sun Yat-sen University, Sept. 2018-Present. 
-<h4> Researcher, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Dec. 2013-Aug. 2018.</h4>  
-<h4> Associate Researcher, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Jan. 2010-Nov. 2013.</h4>  
-<h4> Assistant Researcher, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Aug. 2008-Feb. 2010.</h4>
+Researcher, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Dec. 2013-Aug. 2018. 
+Associate Researcher, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Jan. 2010-Nov. 2013.  
+Assistant Researcher, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Aug. 2008-Feb. 2010.
 ---
 
 ### Grants
@@ -61,7 +61,7 @@ Professor, College of Electronics and Communication Engineering, Sun Yat-sen Uni
 
 ### Publications
 **Book Chapters**
-1. Weirn Luo, Xiaoxia Huang, Yuguang Fang. Optimization in RIS-Empowered Wireless Networks. Encyclopedia of Optimization, third edition. Springer, 2025.
+1. Weirn Luo, Xiaoxia Huang, Yuguang Fang. Optimization in RIS-Empowered Wireless Networks. Encyclopedia of Optimization, third edition. Springer, to appear.
 2. Xuanheng Li, Haichuan Ding, Yuguang Fang, Miao Pan, Pan Li, Xiaoxia Huang, Savo Glisic. Collaborative Spectrum Trading and Sharing for Cognitive Radio Networks.Handbook of Cognitive Radio. Springer, 2019.  
 3. Xiaoxia Huang, Yuguang Fang, Panos M. Pardalos. Optimization in Ad Hoc Networks. Encyclopedia of Optimization, second edition. Springer, 2009.
 
