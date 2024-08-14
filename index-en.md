@@ -39,6 +39,8 @@ I have co-authored 3 academic books chapters and published over 80 papers in the
 ### Grants
 
 ### Publications
+Journals
+======
 1. Jing Chen, Dianjie Lu, Guijuan Zhang, Xiaoxia Huang, Yuguang Fang, "Temporal Point Process based Information Dissemination over Cyber-Physical Interacting Networks, " IEEE Transactions on Vehicular Technology, accepted.  
 2. Guolin Chen, Xiaoxia Huang*, "IRS-Enhanced Parallel Computing and Partial Offloading for Latency Sensitive MEC," IEEE Wireless Communications Letters, 2024.  
 3. Qi Wu, Guolin Chen, Xiaoxia Huang*, "Bilateral Online Task Allocation Scheme for IRS-Assisted MEC System," IEEE Wireless Communications Letters, 2024.
@@ -84,6 +86,49 @@ I have co-authored 3 academic books chapters and published over 80 papers in the
 43. Pan Li, Xiaoxia Huang, Yuguang Fang, Phone Lin, "Optimal Placement of Gateways in Vehicular Networks," IEEE Transactions on Vehicular Technology, no. 6, vol. 56, pp. 3421-3430, Nov. 2007.
 44. Xiaoxia Huang, Jianfeng Wang, Yuguang Fang, "Achieving Maximum Flow in Interference-Aware Wireless Sensor Networks with Smart Antennas, '' Ad Hoc Networks, vol. 5, no. 6, pp. 885-896, Aug. 2007.
 45. Xiaoxia Huang, Jianfeng Wang, Yuguang Fang, ''Maximum Flow Problem in Wireless Ad Hoc Networks with Directional Antennas,'' Optimization Letters, Aug. 2006.
+
+Conferences
+======
+1. Zengjie Zhu, Xiaoxia Huang, Pan Li, Phone Lin, "Unleashing the Power of STAR-RIS for Enhanced Connectivity in Counteracting Random Blockages, " IEEE Globecom 2024.
+2. Wenjie Guan, Kai Huang, Xinyu Xie, Jinbei Zhang, Kechao Cai, Xiaoxia Huang, "New Results on Coded Caching in Partially Cooperative D2D Networks, " ISIT, Jul. 2024.
+3. Weiran Luo, Xiaoxia Huang*, "Combination of GSIC and RIS-Enabled Signal Separation in IQ Domain for Parallel Reception with Imperfect CSI, " IEEE VTC-Spring, Jun. 2024.
+4. Song Lyu, Zheng Lin, Guanqiao Qu, Xianhao Chen, Xiaoxia Huang, Pan Li, "Optimal Resource Allocation for U-Shaped Parallel Split Learning, " IEEE GLOBECOM 2023, Dec. 2023.
+5. Zengjie Zhu, Xiaoxia Huang*, “Connectivity of Wireless Networks Assisted by Transmissive Reconfigurable Intelligent Surfaces,” IEEE VTC-Fall, Oct. 2023.
+6. Zhenbei Su, Xiaoxia Huang*, “Multi-User Interference Suppression in Phased Arrays with Quantized Control in Millimeter Wave Communication Networks,” IEEE VTC-Fall, Oct. 2023.
+7. Hong Li, Kai Huang, Jinbei Zhang, Kechao Cai, Xiaoxia Huang, “Exploiting the Overheard Information of Coded Caching for Heterogeneous Lossy Channels,” IEEE VTC-Fall, Oct. 2023.
+8. Yongyi Yang, Guolin Chen, Kai Xie, Xiaoxia Huang*, "Statistical Maximum Flow Guarantee for Evolving Wireless Backscatter Networks, " IEEE GLOBECOM 2022,  Dec. 2022.
+9. Fangming Zhao, Xinghua Sun, Wen Zhan, Bingpeng Zhou, Xiaoxia Huang, "AoI-Constrained Energy Efficiency Optimization in Random-Access Poisson Networks, " 2022 IEEE Wireless Communications and Networking Conference, Apr. 2022.
+10. Qi Wu, Guolin Chen, Xiaoxia Huang*, "Mobility-Aware Efficient Task Offloading with Dependency Guarantee in Mobile Edge Computing Networks," The 17th International Conference on Mobility, Sensing and Networking, Dec. 2021.
+11. Lanhua Li, Xiaoxia Huang, Xuming Fang, Yuguang Fang, "Efficient Hierarchical Multiple Access for Ambient Backscatter Wireless Networks,"IEEE GLOBECOM 2019, Dec. 2019.
+12. Xinyue Zhang, Jiahao Ding, Sai Mounika Errapotu, Xiaoxia Huang, Pan Li, Miao Pan, "Differentially Private Functional Mechanism for Generative Adversarial Networks, " IEEE GLOBECOM 2019, Dec. 2019.
+13. Lan Zhang, Xianhao Chen, Yuguang Fang, Xiaoxia Huang, Xuming Fang, "Learning-based mmWave V2I Environment Augmentation through Tunable Reflectors," IEEE GLOBECOM 2019, Dec. 2019.
+14. Shimin Gong, Lin Gao, Jing Xu, Xiaoxia Huang, Wei Liu, "Passive Relaying Scheme via Backscatter Communications in Cooperative Wireless Networks," IEEE WCNC, Barcelona, Spain, Apr.2018.
+15. Lanhua Li, Xiaoxia Huang, Shimin Gong, "Robust Cooperative Routing for Ambient Backscatter Wireless Sensor Networks," IEEE GLOBECOM 2017, Dec. 2017.
+16. Jiachen Li, Jing Xu, Shimin Gong, Xiaoxia Huang, Ping Wang, "Robust Radio Mode Selection in Wirelessly Powered Communications with Uncertain Channel Information, " IEEE GLOBECOM 2017, Dec. 2017.
+17. Yanyan Shen, Xiaoxia Huang, Bo Yang, Shimin Gong, Shuqiang Wang, "Fair Resource Allocation Algorithm for Chunk based OFDMA Multi-User Networks," IEEE Vehicular Technology Conference- Fall, Toronto, Canada, Sept. 2017.
+18. Jiachen Li, Shimin Gong, Jing Xu, Xiaoxia Huang and Yanyan Shen, " Cooperative Multi-Relay Assisted Multicast Beamforming in Wirelessly Power Communications," IEEE CIT 2017, Helsinki, Finland, Aug. 2017.
+19. Long Chen, Jigang Wu, Hong-Ning Dai, Xiaoxia Huang, "Two-Stage Game for Joint Bandwidth and Multiple Homing Relay Allocation in Cooperative D2D Networks," The 18th International Conference on High Performance Computing and Communications (IEEE HPCC 2016), Sydney, Australia, Dec. 2016.
+20. Shimin Gong, Yanyan Shen, Xiaoxia Huang, Sissi Xiaoxiao Wu, Anthony Man-Cho So, "Robust Relay Beamforming in Device-to-Device Networks with Energy Harvesting Constraints," IEEE GLOBECOM 2016, Dec. 2016.
+21. Shimin Gong, Sissi Xiaoxiao Wu, Anthony Man-Cho So, Xiaoxia Huang, "Distributionally Robust Relay Beamforming in Wireless Communications," The 19th ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (ACM MSWiM 2016), Malta, Nov. 2016.
+22. Yanyan Shen, Xiaoxia Huang, Bo Yang, Shuqiang Wang, "Alternate Convex Search Method for Resource Allocation in OFDMA AF Relay Networks with Energy Harvesting ," IEEE/CIC ICCC 2015, Nov. 2015.
+23. Yanyan Shen, Kyung Sup Kwak, Bo Yang, Shuqiang Wang, Xiaoxia Huang, Xinping Guan, Ramesh R. Rao, "Resource Allocation for OFDMA Relay Networks with Wireless Information and Power Transfer," IEEE GLOBECOM 2015, Dec. 2015.
+24. Mingwei Dai and Xiaoxia Huang, "Radio Signal Based Device-free Velocity Recognition," WASA 2015, Aug. 2015.
+25. Ming Li, Pan Li, Linke Guo, Xiaoxia Huang, "PPER: Privacy-Preserving Economic-Robust Spectrum Auction in Wireless Networks,” IEEE INFOCOM 2015, Apr. 2015.
+26. Yi Liu, Xiongzi Ge, David H. C. Du, Xiaoxia Huang, "Par-BF: a parallel partitioned Bloom filter for dynamic data sets," International Workshop on Data-Intensive Scalable Computing Systems (DISCS 2014), New Orleans, U.S., Nov. 2014.
+27. Yi Liu, Xiongzi Ge, Xiaoxia Huang, David H.C Du, "MOLAR: A Cost-Efficient, High-Performance Hybrid Storage Cache," IEEE Cluster 2013, Indianapolis, US,  Sept. 2013.
+28. Ying Zhu, Lixia Chen, Wei Zhang, Ai Chen, Xiaoxia Huang, "Device-Free Object Tracking with Wireless Sensors," IEEE GLOBECOM 2012, Dec. 2012.
+29. Dianjie Lu, Xiaoxia Huang, Pan Li, Jianping Fan, "Connectivity of Large-Scale CognitiveRadio Ad Hoc Networks, " IEEE INFOCOM 2012, Mar. 2012.
+30. Xiaoxia Huang, Dianjie Lu, Pan Li and Yuguang Fang, "Coolest Path: Spectrum Mobility Aware Routing Metrics in Cognitive Ad Hoc Networks," ICDCS 2011, Jun. 2011.
+31. Rui Zhang, Yanchao Zhang, and Xiaoxia Huang, "JR-SND: Jamming-Resilient Secure Neighbor Discovery in Mobile Ad Hoc Networks, " ICDCS 2011, Jun. 2011.
+32. Pan Li, Xiaoxia Huang, Yuguang Fang, "Capacity Scaling of Multihop Cellular Networks, " INFOCOM 2011, Apr. 2011.
+33. Dianjie Lu, Xiaoxia Huang, Jing Lu, Jianping Fan, "Channel Capacity Optimization via Exploiting Multi-SU Coexistence in Cognitive Radio Networks," WCNC 2011, Mar. 2011.
+34. Ren Han, Xiaoxia Huang, Pan Li, "Transport Control Based on Spectrum Switching Detection in Cognitive Radio Ad Hoc Networks, " QSHINE 2010, Nov. 2010.
+35. Dianjie Lu, Xiaoxia Huang, Cong Liu, Jianping Fan, "Adaptive Power Control Based Spectrum Handover for Cognitive Radio Networks, "WCNC 2010, Apr. 2010.
+36. Xiaoxia Huang, Hongqiang Zhai and Yuguang Fang, "Lightweight Robust Routing in Mobile Wireless Sensor Networks," MILCOM 2006, Oct. 2006.
+37. Xiaoxia Huang and Yuguang Fang, "Multi-constrained Soft-QoS Provisioning in Wireless Sensor Networks," QSHINE 2006, Aug. 2006.
+38. Xiaoxia Huang, Jianfeng Wang, Yuguang Fang, "Interference-Constrained Maximum Flow in Wireless Sensor Networks with Directional Antennas," ICNSC 2006, Apr. 2006.
+39. Xiaoxia Huang and Yuguang Fang, "End-to-end Delay Differentiation By Prioritized Multipath Routing in Wireless Sensor Networks," IEEE MILCOM 2005, Oct. 2005.
+
 
 
 ### Professional Activities
