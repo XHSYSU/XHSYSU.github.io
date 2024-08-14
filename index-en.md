@@ -54,7 +54,7 @@ IEEE INFOCOM 2012-2021, IEEE ICC 2011-2018、2021-2023, IEEE Globecom 2011-2019,
 
 
 ### Honors and Awards
-- **项目1**  
-项目描述
-- **项目2**  
-项目描述
+- **Guangdong Province Special Support Plan for Young Top Talents in Technological Innovation, 2016**  
+- **Member of the Youth Innovation Promotion Association of the Chinese Academy of Sciences, 2013**
+- **100 Distinguished TPC members of lEEE Infocom, 2018**
+
