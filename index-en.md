@@ -36,10 +36,10 @@ I have co-authored 3 academic books chapters and published over 80 papers in the
 
 ### Experiences
 
-Professor, College of Electronics and Communication Engineering, Sun Yat-sen University, Sept. 2018-Present. 
-Researcher, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Dec. 2013-Aug. 2018. 
-Associate Researcher, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Jan. 2010-Nov. 2013.  
-Assistant Researcher, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Aug. 2008-Feb. 2010.
+- Professor, College of Electronics and Communication Engineering, Sun Yat-sen University, Sept. 2018-Present. 
+- Researcher, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Dec. 2013-Aug. 2018. 
+- Associate Researcher, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Jan. 2010-Nov. 2013.  
+- Assistant Researcher, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Aug. 2008-Feb. 2010.
 ---
 
 ### Grants
