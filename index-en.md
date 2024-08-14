@@ -27,9 +27,9 @@ I have co-authored 3 academic books chapters and published over 80 papers in the
 
 <p><h3>Research Interests</h3><br>
 <p>- self-sustainable Internet of Things<br>
-- wireless sensing and computing  
-- intelligent wireless networks  
-- intelligent wireless networks
+<p>- wireless sensing and computing<br>  
+<p>- intelligent wireless networks<br>  
+<p>- intelligent wireless networks<br>
 
 ### 荣誉奖励
 - 奖学金
