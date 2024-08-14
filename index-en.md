@@ -32,10 +32,10 @@ I have co-authored 3 academic books chapters and published over 80 papers in the
 <h4>- intelligent wireless networks</h4>
 
 ### Experiences
-* Professor, College of Electronics and Communication Engineering, Sun Yat-sen University, Sept. 2018-Present.  
-* Researcher, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Dec. 2013-Aug. 2018.  
-* Associate Researcher, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Jan. 2010-Nov. 2013.  
-* Assistant Researcher, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Aug. 2008-Feb. 2010
+<h4>* Professor, College of Electronics and Communication Engineering, Sun Yat-sen University, Sept. 2018-Present.</h4> 
+<h4>* Researcher, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Dec. 2013-Aug. 2018.</h4>  
+<h4>* Associate Researcher, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Jan. 2010-Nov. 2013.</h4>  
+<h4>* Assistant Researcher, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Aug. 2008-Feb. 2010.</h4>
 
 ### 项目研究
 #### 公司/学校/研究所（2013.9~2017.6）
