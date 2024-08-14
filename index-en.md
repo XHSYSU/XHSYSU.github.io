@@ -33,12 +33,14 @@ I have co-authored 3 academic books chapters and published over 80 papers in the
 - **intelligent wireless networks**
 
 ---
+
 ### Experiences
 <h4> Professor, College of Electronics and Communication Engineering, Sun Yat-sen University, Sept. 2018-Present.</h4> 
 <h4> Researcher, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Dec. 2013-Aug. 2018.</h4>  
 <h4> Associate Researcher, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Jan. 2010-Nov. 2013.</h4>  
 <h4> Assistant Researcher, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Aug. 2008-Feb. 2010.</h4>
 ---
+
 ### Grants
 
 ### Publications
@@ -130,8 +132,6 @@ I have co-authored 3 academic books chapters and published over 80 papers in the
 37. Xiaoxia Huang and Yuguang Fang, "Multi-constrained Soft-QoS Provisioning in Wireless Sensor Networks," QSHINE 2006, Aug. 2006.
 38. Xiaoxia Huang, Jianfeng Wang, Yuguang Fang, "Interference-Constrained Maximum Flow in Wireless Sensor Networks with Directional Antennas," ICNSC 2006, Apr. 2006.
 39. Xiaoxia Huang and Yuguang Fang, "End-to-end Delay Differentiation By Prioritized Multipath Routing in Wireless Sensor Networks," IEEE MILCOM 2005, Oct. 2005.
-
-
 
 ### Professional Activities
 - **Editor**  
