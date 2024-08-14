@@ -41,7 +41,7 @@ I have co-authored 3 academic books chapters and published over 80 papers in the
 ### Grants
 
 ### Publications
-##Journals
+**Journals**
 
 1. Jing Chen, Dianjie Lu, Guijuan Zhang, Xiaoxia Huang, Yuguang Fang, "Temporal Point Process based Information Dissemination over Cyber-Physical Interacting Networks, " IEEE Transactions on Vehicular Technology, accepted.  
 2. Guolin Chen, Xiaoxia Huang*, "IRS-Enhanced Parallel Computing and Partial Offloading for Latency Sensitive MEC," IEEE Wireless Communications Letters, 2024.  
@@ -89,7 +89,7 @@ I have co-authored 3 academic books chapters and published over 80 papers in the
 44. Xiaoxia Huang, Jianfeng Wang, Yuguang Fang, "Achieving Maximum Flow in Interference-Aware Wireless Sensor Networks with Smart Antennas, '' Ad Hoc Networks, vol. 5, no. 6, pp. 885-896, Aug. 2007.
 45. Xiaoxia Huang, Jianfeng Wang, Yuguang Fang, ''Maximum Flow Problem in Wireless Ad Hoc Networks with Directional Antennas,'' Optimization Letters, Aug. 2006.
 
-##Conferences
+**Conferences**
 1. Zengjie Zhu, Xiaoxia Huang, Pan Li, Phone Lin, "Unleashing the Power of STAR-RIS for Enhanced Connectivity in Counteracting Random Blockages, " IEEE Globecom 2024.
 2. Wenjie Guan, Kai Huang, Xinyu Xie, Jinbei Zhang, Kechao Cai, Xiaoxia Huang, "New Results on Coded Caching in Partially Cooperative D2D Networks, " ISIT, Jul. 2024.
 3. Weiran Luo, Xiaoxia Huang*, "Combination of GSIC and RIS-Enabled Signal Separation in IQ Domain for Parallel Reception with Imperfect CSI, " IEEE VTC-Spring, Jun. 2024.
