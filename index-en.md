@@ -30,7 +30,7 @@ I have co-authored 3 academic books chapters and published over 80 papers in the
 - **self-sustainable Internet of Things**
 - **wireless sensing and computing**  
 - **intelligent wireless networks**  
-- **intelligent wireless networks**
+- **millimeter wave networks**
 
 ---
 
