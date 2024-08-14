@@ -43,13 +43,29 @@ Professor, College of Electronics and Communication Engineering, Sun Yat-sen Uni
 ---
 
 ### Grants
-Coverage and Performance Optimization for Mobile Reconfigurable Intelligent Surface-Assisted Millimeterwave Networks (PI), National Science Foundation of China, Jan. 2023-Dec. 2026.  
-Low Latency Intelligent Communication Theory and Methods for Complex Vehicular Networks (Co-PI), National Science Foundation of China Joint Program, Jan. 2023-Dec. 2026.  
-Efficient Calibration and Testing Technologies for Antenna Arrays (PI), National Key Research Development Program of China, Nov. 2020-Oct. 2023.
+- Coverage and Performance Optimization for Mobile Reconfigurable Intelligent Surface-Assisted Millimeterwave Networks (PI), National Science Foundation of China, Jan. 2023-Dec. 2026.  
+- Low Latency Intelligent Communication Theory and Methods for Complex Vehicular Networks (Co-PI), National Science Foundation of China Joint Program, Jan. 2023-Dec. 2026.  
+- Efficient Calibration and Testing Technologies for Antenna Arrays (PI), National Key Research Development Program of China, Nov. 2020-Oct. 2023.
+- Spectrum Big Data Theory and Key Technologies for Mobile Cognitive Radio Networks (PI), NationalScience F oundation of China-Guangdong Joint Program, Jan. 2016-Dec. 2019.
+- Research on Theory and Key Technologies in Safe and Efficient Vehicular Cyber Physical Systems (Co-PI), National Science Foundation of China-Guangdong Joint Program, Jan. 2014-Dec. 2017.
+- Youth Innovation Promotion Association CAS (PI), Chinese Academy of Sciences, Jan. 2012-Dec. 2015.
+- Research on Data Retrieval and Dynamic Sensing Technologies (PI),  863 Program of Ministry of Science and Technology, Oct. 2011-Sept. 2013.
+- QoS Guarantee in Cognitive Radio Networks(PI), National Science Foundation of China, Jan. 2010-Dec. 2012.
+- Research on Key Technologies in Wireless Sensor Networks Based on Ambient Electromagnetic Waves (PI), Shenzhen Technology Development Program, Sept. 2015-Sept. 2017.
+- Research on Key Technologies in Powerless Sensing Based on Ambient RF Energy Harvesting (PI), Guangdong Public Interest Program, Jan. 2015-Dec. 2016.
+- Research on Intelligent Taxi Management Based on Vehicular Sensor Networks (PI), Shenzhen Public Science and Technology Development Program, Nov. 2010-Jun. 2011.
+- Dedup Algorithm (PI), Huawei Technology Inc, Feb. 2013-Oct. 2013.
+- Research on Key Technologies (Transmission and Networking) in Wireless Sensor Networks(Co-PI), Ministry of Industry and Information Technology, Jan. 2009-Dec. 2010.
+- Research on Key Technologies in High Speed Sensor Networks(Co-PI), Guangdong Science and Technology Department, Apr. 2009-Dec. 2011.
 
 
 ### Publications
-**Journals**
+**Book Chapters**
+1. Weirn Luo, Xiaoxia Huang, Yuguang Fang. Optimization in RIS-Empowered Wireless Networks. Encyclopedia of Optimization, third edition. Springer, 2025.
+2. Xuanheng Li, Haichuan Ding, Yuguang Fang, Miao Pan, Pan Li, Xiaoxia Huang, Savo Glisic. Collaborative Spectrum Trading and Sharing for Cognitive Radio Networks.Handbook of Cognitive Radio. Springer, 2019.  
+3. Xiaoxia Huang, Yuguang Fang, Panos M. Pardalos. Optimization in Ad Hoc Networks. Encyclopedia of Optimization, second edition. Springer, 2009.
+
+**Journal Papers**
 
 1. Jing Chen, Dianjie Lu, Guijuan Zhang, Xiaoxia Huang, Yuguang Fang, "Temporal Point Process based Information Dissemination over Cyber-Physical Interacting Networks, " IEEE Transactions on Vehicular Technology, accepted.  
 2. Guolin Chen, Xiaoxia Huang*, "IRS-Enhanced Parallel Computing and Partial Offloading for Latency Sensitive MEC," IEEE Wireless Communications Letters, 2024.  
