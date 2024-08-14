@@ -15,7 +15,9 @@
 </table>
 </div>
 ---
+
 About Me
+=====
 
 I am a Professor with the School of Electronics and Communication Engineering at Sun Yat-Sen University, and the director of the Artificial intelligence Communication and Technology (ACT) research lab. I received my Ph.D. degree in electrical and computer engineering from the University of Florida in 2007 supervised by Prof. Yuguang Fang, and the B.E. and M.E degrees in electrical engineering both from Huazhong University of Science and Technology, Wuhan, China, in 2000 and 2002, respectively. My research interests include self-sustainable Internet of Things, wireless sensing and computing, intelligent wireless networks, and millimeter wave networks. Her research has been supported by highly competitive funding from the National Natural Sciences Foundation of China, Ministry of Science and Technology, and industries.
 
