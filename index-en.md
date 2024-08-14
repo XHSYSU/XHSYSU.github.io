@@ -43,6 +43,15 @@ I have co-authored 3 academic books chapters and published over 80 papers in the
   
 ---
 
+### Teaching
+
+- ECE223 Discrete Mathematics, Spring 2019
+- ECE363 Principles of Communications, Fall 2019-2024
+- ECE7110 Optimization Models and Algorithms, Spring 2022-2024
+
+
+---
+
 ### Grants
 - Coverage and Performance Optimization for Mobile Reconfigurable Intelligent Surface-Assisted Millimeterwave Networks (PI), National Science Foundation of China, Jan. 2023-Dec. 2026.  
 - Low Latency Intelligent Communication Theory and Methods for Complex Vehicular Networks (Co-PI), National Science Foundation of China Joint Program, Jan. 2023-Dec. 2026.  
