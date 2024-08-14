@@ -45,11 +45,13 @@ I have co-authored 3 academic books chapters and published over 80 papers in the
 - **Editor**  
 ACM Computing Surveys, Associate Editor, 2024-    
 IEEE Transactions on Vehicular Technology, Editor, 2013--2021  
-- ** Member of the Technical Program Committee**  
+- **Member of the Technical Program Committee**  
 IEEE INFOCOM 2012-2021, IEEE ICC 2011-2018、2021-2023, IEEE Globecom 2011-2019, IEEE WCNC 2011-2014、2019, WASA 2015-16, ICCC 2015-17, ICST QShine 2010, EUC 2010、2011, IEEE MSN 2012，IEEE NAS 2012, IEEE PIMRC 2012
 - **Publication Chair, IEEE ICPADS 2009**
 - **Publication Chair, IEEE/CIC ICCC 2022**
 - **Poster Chair, CST BodyNets 2011**
+- Reviewer for IEEE Journal on Selected Areas in Communications, IEEE Transactions on Wireless Communications, IEEE Transactions on Communications, IEEE Transactions on Parallel and Distributed Systems, IEEE Transactions on Mobile Computing, IEEE Wireless Communications Magazine, ACM Mobile Computing and Communications Review, Ad Hoc Networks
+
 
 ### Honors and Awards
 - **项目1**  
