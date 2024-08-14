@@ -36,13 +36,17 @@ I have co-authored 3 academic books chapters and published over 80 papers in the
 
 ### Experiences
 
-<h4> Professor, College of Electronics and Communication Engineering, Sun Yat-sen University, Sept. 2018-Present.</h4> 
+Professor, College of Electronics and Communication Engineering, Sun Yat-sen University, Sept. 2018-Present. 
 <h4> Researcher, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Dec. 2013-Aug. 2018.</h4>  
 <h4> Associate Researcher, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Jan. 2010-Nov. 2013.</h4>  
 <h4> Assistant Researcher, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Aug. 2008-Feb. 2010.</h4>
 ---
 
 ### Grants
+Coverage and Performance Optimization for Mobile Reconfigurable Intelligent Surface-Assisted Millimeterwave Networks (PI), National Science Foundation of China, Jan. 2023-Dec. 2026.  
+Low Latency Intelligent Communication Theory and Methods for Complex Vehicular Networks (Co-PI), National Science Foundation of China Joint Program, Jan. 2023-Dec. 2026.  
+Efficient Calibration and Testing Technologies for Antenna Arrays (PI), National Key Research Development Program of China, Nov. 2020-Oct. 2023.
+
 
 ### Publications
 **Journals**
