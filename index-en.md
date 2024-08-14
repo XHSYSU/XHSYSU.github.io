@@ -22,6 +22,7 @@
 I am a Professor with the School of Electronics and Communication Engineering at Sun Yat-Sen University, and the director of the Artificial intelligence Communication and Technology (ACT) research lab. I received my Ph.D. degree in electrical and computer engineering from the University of Florida in 2007 supervised by Prof. Yuguang Fang, and the B.E. and M.E degrees in electrical engineering both from Huazhong University of Science and Technology, Wuhan, China, in 2000 and 2002, respectively. My research interests include self-sustainable Internet of Things, wireless sensing and computing, intelligent wireless networks, and millimeter wave networks. Her research has been supported by highly competitive funding from the National Natural Sciences Foundation of China, Ministry of Science and Technology, and industries.
 
 I have co-authored 3 academic books chapters and published over 80 papers in the field of wireless networks and communications in refereed professional journals and conferences. These works have received over two thousand citations ( Google Scholar). I am serving or have served as an editor for ACM Computing Surveys and IEEE Transactions on Vehicular Technology, and has been a Technical Program Committee (TPC) member for more than ten international conferences, including IEEE INFOCOM, IEEE GLOBECOM, ICC, WCNC and WASA. I have been elected for the Guangdong Province Special Support Plan for Young Top Talents in Technological Innovation and the Youth Innovation Promotion Association of the Chinese Academy of Sciences. I am an IEEE senior member.
+
 ---
 
 <h3>Research Interests</h3>
@@ -39,8 +40,8 @@ I have co-authored 3 academic books chapters and published over 80 papers in the
 ### Grants
 
 ### Publications
-Journals
-======
+##Journals
+
 1. Jing Chen, Dianjie Lu, Guijuan Zhang, Xiaoxia Huang, Yuguang Fang, "Temporal Point Process based Information Dissemination over Cyber-Physical Interacting Networks, " IEEE Transactions on Vehicular Technology, accepted.  
 2. Guolin Chen, Xiaoxia Huang*, "IRS-Enhanced Parallel Computing and Partial Offloading for Latency Sensitive MEC," IEEE Wireless Communications Letters, 2024.  
 3. Qi Wu, Guolin Chen, Xiaoxia Huang*, "Bilateral Online Task Allocation Scheme for IRS-Assisted MEC System," IEEE Wireless Communications Letters, 2024.
@@ -87,8 +88,7 @@ Journals
 44. Xiaoxia Huang, Jianfeng Wang, Yuguang Fang, "Achieving Maximum Flow in Interference-Aware Wireless Sensor Networks with Smart Antennas, '' Ad Hoc Networks, vol. 5, no. 6, pp. 885-896, Aug. 2007.
 45. Xiaoxia Huang, Jianfeng Wang, Yuguang Fang, ''Maximum Flow Problem in Wireless Ad Hoc Networks with Directional Antennas,'' Optimization Letters, Aug. 2006.
 
-Conferences
-======
+##Conferences
 1. Zengjie Zhu, Xiaoxia Huang, Pan Li, Phone Lin, "Unleashing the Power of STAR-RIS for Enhanced Connectivity in Counteracting Random Blockages, " IEEE Globecom 2024.
 2. Wenjie Guan, Kai Huang, Xinyu Xie, Jinbei Zhang, Kechao Cai, Xiaoxia Huang, "New Results on Coded Caching in Partially Cooperative D2D Networks, " ISIT, Jul. 2024.
 3. Weiran Luo, Xiaoxia Huang*, "Combination of GSIC and RIS-Enabled Signal Separation in IQ Domain for Parallel Reception with Imperfect CSI, " IEEE VTC-Spring, Jun. 2024.
