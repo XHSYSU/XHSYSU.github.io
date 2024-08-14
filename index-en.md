@@ -26,10 +26,11 @@ I have co-authored 3 academic books chapters and published over 80 papers in the
 ---
 
 <h3>Research Interests</h3>
-<h4>- self-sustainable Internet of Things</h4>
-<h4>- wireless sensing and computing</h4>  
-<h4>- intelligent wireless networks</h4>  
-<h4>- intelligent wireless networks</h4>
+
+- **self-sustainable Internet of Things**
+- **wireless sensing and computing**  
+- **intelligent wireless networks**  
+- **intelligent wireless networks**
 
 ### Experiences
 <h4> Professor, College of Electronics and Communication Engineering, Sun Yat-sen University, Sept. 2018-Present.</h4> 
