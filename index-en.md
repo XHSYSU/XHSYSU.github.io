@@ -9,7 +9,7 @@
       <p><b>E-mail：huangxiaoxia@mail.sysu.edu.cn</b></p>
       <a href="https://sece.sysu.edu.cn/szll/js/rztx/1355176.htm">中文版</a>
     </td>
-    <td width="25%">
+    <td width="30%">
       <img src="/正装照1-截小.jpg" width="100%">
     </td>
   </tr>
