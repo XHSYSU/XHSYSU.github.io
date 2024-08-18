@@ -7,7 +7,7 @@
       <p><b>College of Electronics and Communication Engineering</b></p>
       <p><b>Sun Yat-sen University</b></p>
       <p><b>邮箱：huangxiaoxia@mail.sysu.edu.cn</b></p>
-      <p><a href="/index-en.html">English Version</a></p>
+      <a href="https://sece.sysu.edu.cn/szll/js/rztx/1355176.htm">中文版</a>
     </td>
     <td width="25%">
       <img src="/zhengjianzhao.jpg" width="100%">
