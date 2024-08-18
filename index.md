@@ -6,7 +6,7 @@
       <p><b>Professor</b></p>
       <p><b>College of Electronics and Communication Engineering</b></p>
       <p><b>Sun Yat-sen University</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
+      <p><b>邮箱：huangxiaoxia@mail.sysu.edu.cn</b></p>
       <p><a href="/index-en.html">English Version</a></p>
     </td>
     <td width="25%">
