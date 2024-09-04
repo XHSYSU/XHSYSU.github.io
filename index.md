@@ -55,7 +55,7 @@ I have co-authored 3 academic books chapters and published over 80 papers in the
 - Coverage and Performance Optimization for Mobile Reconfigurable Intelligent Surface-Assisted Millimeterwave Networks (PI), National Science Foundation of China, Jan. 2023-Dec. 2026.  
 - Low Latency Intelligent Communication Theory and Methods for Complex Vehicular Networks (Co-PI), National Science Foundation of China Joint Program, Jan. 2023-Dec. 2026.  
 - Efficient Calibration and Testing Technologies for Antenna Arrays (PI), National Key Research Development Program of China, Nov. 2020-Oct. 2023.
-- Spectrum Big Data Theory and Key Technologies for Mobile Cognitive Radio Networks (PI), NationalScience F oundation of China-Guangdong Joint Program, Jan. 2016-Dec. 2019.
+- Spectrum Big Data Theory and Key Technologies for Mobile Cognitive Radio Networks (PI), National Science Foundation of China-Guangdong Joint Program, Jan. 2016-Dec. 2019.
 - Research on Theory and Key Technologies in Safe and Efficient Vehicular Cyber Physical Systems (Co-PI), National Science Foundation of China-Guangdong Joint Program, Jan. 2014-Dec. 2017.
 - Youth Innovation Promotion Association CAS (PI), Chinese Academy of Sciences, Jan. 2012-Dec. 2015.
 - Research on Data Retrieval and Dynamic Sensing Technologies (PI),  863 Program of Ministry of Science and Technology, Oct. 2011-Sept. 2013.
