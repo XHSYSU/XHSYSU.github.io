@@ -166,7 +166,7 @@ I have co-authored 3 academic books chapters and published over 80 papers in the
 
 ### Professional Activities
 - **Editor**  
-IEEE Transactions on Networking, 2024-     
+IEEE Transactions on Networking, Editor, 2024-     
 ACM Computing Surveys, Associate Editor, 2024-    
 IEEE Transactions on Vehicular Technology, Editor, 2013--2021  
 - **Member of the Technical Program Committee**  
