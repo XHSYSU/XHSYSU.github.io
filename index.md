@@ -76,7 +76,7 @@ I have co-authored 3 academic books chapters and published over 80 papers in the
 
 **Journal Papers**
 
-1. Yilun Zhuang, Zengjie Zhu, Tianwei Deng, Xiaoxia Huang, "RFGlass: Optically Transparent Transmissive Metasurface for Coverage Expansion," IEEE Communications Magazine, to appear.
+1. Yilun Zhuang, Zengjie Zhu, Tianwei Deng, Xiaoxia Huang*, "RFGlass: Optically Transparent Transmissive Metasurface for Coverage Expansion," IEEE Communications Magazine, to appear.
 2. Jing Chen, Dianjie Lu, Guijuan Zhang, Xiaoxia Huang, Yuguang Fang, "Temporal Point Process based Information Dissemination over Cyber-Physical Interacting Networks, " IEEE Transactions on Vehicular Technology, accepted.  
 3. Guolin Chen, Xiaoxia Huang*, "IRS-Enhanced Parallel Computing and Partial Offloading for Latency Sensitive MEC," IEEE Wireless Communications Letters, 2024.  
 4. Qi Wu, Guolin Chen, Xiaoxia Huang*, "Bilateral Online Task Allocation Scheme for IRS-Assisted MEC System," IEEE Wireless Communications Letters, 2024.
